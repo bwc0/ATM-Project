@@ -1,6 +1,6 @@
 # ATM-Project
 
-ATM that allow users to sign up or sign in, all banking operation like deposit, credit, etc. User can create multiple accounts.
+ATM console app that allow users to sign up or sign in, all banking operation like deposit, credit, etc. User can create multiple accounts.
 
 To Run:
 
