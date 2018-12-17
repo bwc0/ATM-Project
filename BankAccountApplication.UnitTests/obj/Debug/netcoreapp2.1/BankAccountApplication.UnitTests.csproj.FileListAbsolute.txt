@@ -1,0 +1,17 @@
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.deps.json
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.runtimeconfig.json
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.runtimeconfig.dev.json
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.pdb
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/BankAccountApplication.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/bin/Debug/netcoreapp2.1/BankAccountApplication.pdb
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/obj/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.csprojAssemblyReference.cache
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/obj/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.csproj.CoreCompileInputs.cache
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/obj/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.AssemblyInfoInputs.cache
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/obj/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.AssemblyInfo.cs
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/obj/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.csproj.CopyComplete
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/obj/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication.UnitTests/obj/Debug/netcoreapp2.1/BankAccountApplication.UnitTests.pdb

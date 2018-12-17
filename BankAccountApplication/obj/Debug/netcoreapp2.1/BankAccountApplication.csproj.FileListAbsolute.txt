@@ -1,0 +1,11 @@
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/bin/Debug/netcoreapp2.1/BankAccountApplication.deps.json
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/bin/Debug/netcoreapp2.1/BankAccountApplication.runtimeconfig.json
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/bin/Debug/netcoreapp2.1/BankAccountApplication.runtimeconfig.dev.json
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/bin/Debug/netcoreapp2.1/BankAccountApplication.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/bin/Debug/netcoreapp2.1/BankAccountApplication.pdb
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/obj/Debug/netcoreapp2.1/BankAccountApplication.csprojAssemblyReference.cache
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/obj/Debug/netcoreapp2.1/BankAccountApplication.csproj.CoreCompileInputs.cache
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/obj/Debug/netcoreapp2.1/BankAccountApplication.AssemblyInfoInputs.cache
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/obj/Debug/netcoreapp2.1/BankAccountApplication.AssemblyInfo.cs
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/obj/Debug/netcoreapp2.1/BankAccountApplication.dll
+/Users/bryantcason/dev/C#/BankAccountApplication/BankAccountApplication/obj/Debug/netcoreapp2.1/BankAccountApplication.pdb
